@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: It's Linda Julia
+description: Startups, movie reviews, romance and life
+meta_description: "ItsLindaJulia - Startups, movie reviews, romance and life"
 
 aboutPage: true
 
@@ -8,17 +8,17 @@ markdown: kramdown
 highlighter: rouge
 
 gems: [jekyll-paginate]
-paginate: 20
+paginate: 10
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://www.itslindajulia.com/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://www.itslindajulia.com/'
+author:         'Linda Julia'
+authorTwitter:  'tbd'
 
 permalink:       /:year/:title/
 
