@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+At the end of the world, I'll be the last man standing. The last man.
 
 {% include footer.html %}

@@ -4,6 +4,8 @@ meta_description: "ItsLindaJulia - Startups, movie reviews, romance and life"
 
 aboutPage: true
 
+categories: startup
+
 markdown: kramdown
 highlighter: rouge
 
@@ -11,7 +13,7 @@ gems: [jekyll-paginate]
 paginate: 10
 baseurl: /
 domain_name: 'http://www.itslindajulia.com/'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-90757858-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
@@ -20,7 +22,7 @@ url:            'http://www.itslindajulia.com/'
 author:         'Linda Julia'
 authorTwitter:  'tbd'
 
-permalink:       /:year/:title/
+permalink:       /:year/:month/:title/
 
 defaults:
     -
