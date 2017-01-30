@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-At the end of the world, I'll be the last man standing. The last man.
+Hi, I'm Linda Julia. I'm a 24 year old living in Seattle, WA. Originally from the East Coast, I am spending my formative new-adult years refurbishing a condo with Boyfriend, working at Startup, and using whatever time I have to write about those things. And other things.
 
 {% include footer.html %}

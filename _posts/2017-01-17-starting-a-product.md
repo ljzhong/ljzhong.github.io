@@ -6,20 +6,14 @@ published: true
 category: startup
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+How do you build a product (not a company)?
 
-Jekyll also offers powerful support for code snippets:
+Another area I had zero idea how to start. My first instinct is to start at that core user flow. What's the most common, most important think a user will do with your product?
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Wrong. Totally wrong.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+When building a product (not a company), it's important to focus on the skeleton. Picking frameworks, tools, data structures that scale because the code you write at first will definitely not. I'm talking about the starting blocks of almost any technology product out there--user accounts, login/logout, signup, deactivation, email notifications, privacy settings, every boring piece of engineering that needs to be picked out before you start thinking about color schemes. Which is sad. I love color.
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+When developing a product *idea*, I think my approach is still valid, but for the nitt gritty product building, you start from the foundation and build up. 
+
+Hm.
