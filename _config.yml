@@ -22,7 +22,7 @@ url:            'http://www.itslindajulia.com/'
 author:         'Linda Julia'
 authorTwitter:  'tbd'
 
-permalink:       /:year/:month/:title/
+permalink:       /404.html
 
 defaults:
     -
