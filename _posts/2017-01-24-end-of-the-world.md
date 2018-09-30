@@ -2,7 +2,7 @@
 title:  "It's the end of the world as we know it"
 date:   2017-01-24 00:00:00
 description: The limits of capitalism in 2017
-published: true
+published: false
 category: economics
 ---
 
