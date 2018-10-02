@@ -1,6 +1,8 @@
 ---
-title: About
+layout: default
 permalink: /about.html
+
+title: About
 profile: true
 ---
 
