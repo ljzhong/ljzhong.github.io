@@ -3,7 +3,7 @@ title:  "Simon Sinek's diagnosis of millenials"
 date:   2017-01-10 00:00:00
 description: Maybe not what Simon says.
 published: false
-category: life
+category: reviews
 ---
 
 A video has been circulating the office lately. Simon Sinek, a cool-eyed, well-stubbled gentleman with a look curated to bridge the divide between millenials...and everyone older. (Aside, I appreciate his cool-looking, well-fitting glasses. Not really appreciating how he looks smug no matter what expression he's wearing.)

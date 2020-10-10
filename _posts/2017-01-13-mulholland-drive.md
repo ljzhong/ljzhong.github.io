@@ -3,7 +3,7 @@ title:  "A trip down Mulholland Drive"
 date:   2017-01-13 00:00:00
 description: Review of Mulholland Drive (2001)
 published: false
-category: art
+category: reviews
 ---
 
 *Mulholland Drive (2001)* is a movie I liked watching but loved talking about because you can't help learning more about your friends during the discussion. 

@@ -3,7 +3,7 @@ title:  "Zero to product"
 date:   2017-01-17 00:00:00
 description: Starting from a readme.md and a .gitignore
 published: false
-category: startup
+category: product
 ---
 
 How do you build a product (not a company)?

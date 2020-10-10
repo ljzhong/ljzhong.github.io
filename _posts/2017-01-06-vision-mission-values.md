@@ -3,7 +3,7 @@ title:  "Vision, Mission, Values"
 date:   2017-01-07 00:00:00
 description: Startup beginnings and building blocks.
 published: false
-category: startup
+category: product
 ---
 
 I've never thought about the process of creating a company's vision, mission and values (VMV). At my p;d job, a huge corporate affair, the VMV's were set so high above my paygrade and massaged by so much marketing overthink that I felt they were more about filling up coment on the company home page than actually determining anything about the direction of the company and the kind of work it did. It sort of just sat, calcifying alone in the footer of the "about us" page, a feeble "Look! We have values! We have those things!" screamed out into the emptiness of flat UI and low click thru ratings. 
