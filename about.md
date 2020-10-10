@@ -6,6 +6,6 @@ title: About
 profile: true
 ---
 
-Hi, I'm Linda Julia. I'm a 24 year old living in Seattle, WA. Originally from the East Coast, I am spending my formative new-adult years refurbishing a condo with Boyfriend, working at Startup, and using whatever time I have to write about those things. And other things.
+Hi, I'm Linda Julia. I'm a 28 year old living in Seattle, WA. Originally from the East Coast, I am spending my  middle-adult years dreaming of residential architecture with Fiancé, working at Corporation, and using whatever time I have to write about those things. And other things.
 
 {% include footer.html %}
