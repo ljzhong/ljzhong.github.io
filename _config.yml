@@ -12,13 +12,13 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 10
 baseurl: /
-domain_name: 'http://www.itslindajulia.com/'
+domain_name: 'https://www.itslindajulia.com/'
 google_analytics: 'UA-90757858-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://www.itslindajulia.com/'
+url:            'https://www.itslindajulia.com/'
 author:         'Linda Julia'
 authorInsta:    'itslindajulia'
 
