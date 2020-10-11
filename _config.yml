@@ -11,7 +11,7 @@ highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 10
-baseurl: /
+baseurl: '/'
 domain_name: 'https://www.itslindajulia.com/'
 google_analytics: 'UA-90757858-1'
 disqus: false
