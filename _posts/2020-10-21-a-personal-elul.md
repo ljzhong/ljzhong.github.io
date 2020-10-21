@@ -20,22 +20,24 @@ I've also been watching a Youtube channel recommended by my sister, [Kara and Na
 
 Who has done me the greatest harm? Who has been holding me back? Who deserves my apologies and my forgiveness? Well, it's me!
 
-I've been so hard on myself for my whole life. When I was little, I let people set my goals. _If you get this grade, you can go hang with your friends._, _if you go to an Ivy League school, you can start life off on the right foot_. As an adult, I set my own goals. _If you get paid this much, you can feel worthwhile._ _If you lose this much weight, you will be desirable._ _If you have a husband, house, second house, and dogs before you're 30, then you can consider yourself successful._
+I've been so hard on myself for my whole life. When I was little, I let people set my goals. _If you get this grade, you can go hang with your friends._ _If you go to an Ivy League school, you can start life off on the right foot_. As an adult, I set my own goals. _If you get paid this much, you can feel worthwhile._ _If you lose this much weight, you will be desirable._ _If you have a husband, house, second house, and dogs before you're 30, then you can consider yourself successful._
 
-That's no way to treat myself. If I keep dangling goals and milestones  in front of me like they're keys to a gated Edonic community, I'll never going to be happy! Nothing is ever enough. No wonder I'm so miserable. And everything I'm doing to be happier (setting new milestones, making new plans) just makes it worse! 
+That's no way to treat myself. If I keep dangling goals and milestones  in front of me like they're keys to a gated Edonic community, I'll never be happy! Nothing is ever enough. No wonder I'm so miserable! And everything I'm doing to be happier (setting new milestones, making new plans) just makes it worse. 
 
 So, I'm sorry, Linda. It's been a tough 27 years. Will you forgive me?
 
-I forgive you, Linda! Those 27 years are in the past. What's done is done. Even what isn't done, if you accidentally start making plans again, setting goals as steps on a path to happiness, is OK! It will take another lifetime to undo our bad habits. But each moment is a chance to catch ourselves and start fresh. 
+I...
+
+forgive you, Linda! Those 27 years are in the past. What's done is done. Even what isn't done, if you accidentally start making plans again, setting goals as steps on a path to happiness, is OK! It will take another lifetime to undo our bad habits. But each moment is a chance to catch ourselves and try again. 
 
 ### Part 3: The plan ahead 
 
-1. Be positive. It's funny because a lot of people think that I am generally positive. The reality is that a positive attitude has been a tool for me to move people through tough situations. But it's not a true reflection of what I've been like on the inside. I've saved all my negativity from the day and unleash it on Josh at night. But, like energy, positivity is an unending spring. If I don't block the flow, only more will come out.
+1. Be positive. It's funny because a lot of people think that I am generally positive. The reality is that a positive attitude has been a tool for me to push me and the people around me through tough situations. But it's not a true reflection of what I'm telling myself on the inside. I save all my negativity from the day and unleash it on Josh at night. But, like energy, positivity is an unending spring. If I don't block the flow, only more will come out.
 
-2. Temporarily stop making goals. Goals are my mental potato chips, my Twix bars. They're short snacks of dopamine and do nothing for my overal mental health. Now, being able to set goals is really important for living, but I think I need to diet for a bit.
+2. Temporarily stop making goals. Goals are my mental potato chips, my Twix bars. They're short hits of dopamine and do nothing for my overal mental health. Now, being able to set goals is really important for living, but I think I need to diet for a bit.
 
-3. Feel bad. Yes! That's right. The path to a deep and unending well of happiness is to address pain head on. I thought being an adult meant never doing the things you didn't want to do and instead doing everything you do want to do, but that doesn't mean you're happy or in control. Rather, it means I am tasked to spend every moment of my life avoiding what I don't want or preventing hypothetical don't-wants from happening to me. But beyond the pain, that's where true maturity and living a full life happen. 
+3. Feel bad. Yes! That's right. The path to a deep and unending well of happiness is to face pain head on. I thought being an adult meant never doing the things you didn't want to do and instead doing everything you do want to do, but that doesn't mean you're happy or in control. Rather, it means I am tasked to spend every moment of my life avoiding what I don't want or preventing hypothetical don't-wants from happening to me. But beyond the pain, that's where true maturity and living a full life happen. 
 
-4. Write, write, write. OK, so I will set one goal. I want to write weekly blog posts, to document and clarify my internal dialogue. Everyone thinks they know thmselves, but do I really? I've spent a long time disengaging from my internal voice. Even this post, compared to who I was a week ago, seem like they're from totally different people. I'd like to get to know who I am. People seem to like her. She seems cool. 
+4. Write, write, write. OK, so I will set one goal. I want to write weekly blog posts, to document and clarify my internal dialogue. Everyone thinks they know thmselves, but do I really? I've spent a long time disengaging from my internal voice. Even this post, compared to what I wrote a week ago, seem like they're from totally different authors. I'd like to get to know who I am. People seem to like her. She seems cool. 
 
 Not all posts will be long like this one. This post is a release of the energy I've felt damming up inside me from my time in Boston. It feels good to let it out. And behind that wall is even more energy. It's limitless, it fills the universe, it all springs from me. 
