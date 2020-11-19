@@ -22,7 +22,7 @@ url:            'https://www.itslindajulia.com/'
 author:         'Linda Julia'
 authorInsta:    'itslindajulia'
 
-permalink:       /404.html
+permalink:       /:year/:month/:title
 
 defaults:
     -
