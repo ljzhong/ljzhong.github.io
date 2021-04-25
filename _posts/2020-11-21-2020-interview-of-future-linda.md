@@ -2,7 +2,7 @@
 title: "Interview of future Linda"
 date: 2020-11-21 00:00:00
 description: Therapy exercise
-published: true
+published: false
 category: life
 ---
 
