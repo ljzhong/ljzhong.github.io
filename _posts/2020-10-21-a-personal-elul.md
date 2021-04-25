@@ -2,7 +2,7 @@
 title: "A personal Elul"
 date: 2020-10-21 00:00:00
 description: Actually, this is the fresh start.
-published: true
+published: false
 category: life
 ---
 
